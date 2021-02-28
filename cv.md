@@ -20,7 +20,6 @@ HTML&CSS,Java Script Basics
 </html>
 ```
 
--
 
 Incomplete Higher education (Bachelor of Social Science)
 
